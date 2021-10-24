@@ -1,0 +1,12 @@
+.red { color : blue
+
+}
+
+.title {
+    font-size: large;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
